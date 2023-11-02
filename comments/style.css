@@ -1,0 +1,23 @@
+html{
+    font-family: 'Open sans' sans-serif;
+}
+
+.content{
+    display: inline-flex;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.content img{
+    width: 40px;
+    height: 40px;
+    margin-right: 0.6rem;
+}
+
+.content .fa-star{
+    font-size: 12px;
+}
+
+.checked{
+    color: orange;
+}
